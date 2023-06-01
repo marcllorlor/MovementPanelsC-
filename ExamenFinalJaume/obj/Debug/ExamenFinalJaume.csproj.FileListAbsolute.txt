@@ -1,0 +1,11 @@
+C:\DAM2\M3UF4\Exercicis\ExamenFinalJaume\ExamenFinalJaume\bin\Debug\ExamenFinalJaume.exe.config
+C:\DAM2\M3UF4\Exercicis\ExamenFinalJaume\ExamenFinalJaume\bin\Debug\ExamenFinalJaume.exe
+C:\DAM2\M3UF4\Exercicis\ExamenFinalJaume\ExamenFinalJaume\bin\Debug\ExamenFinalJaume.pdb
+C:\DAM2\M3UF4\Exercicis\ExamenFinalJaume\ExamenFinalJaume\obj\Debug\ExamenFinalJaume.csproj.AssemblyReference.cache
+C:\DAM2\M3UF4\Exercicis\ExamenFinalJaume\ExamenFinalJaume\obj\Debug\ExamenFinalJaume.csproj.SuggestedBindingRedirects.cache
+C:\DAM2\M3UF4\Exercicis\ExamenFinalJaume\ExamenFinalJaume\obj\Debug\ExamenFinalJaume.fmExamenFinal.resources
+C:\DAM2\M3UF4\Exercicis\ExamenFinalJaume\ExamenFinalJaume\obj\Debug\ExamenFinalJaume.Properties.Resources.resources
+C:\DAM2\M3UF4\Exercicis\ExamenFinalJaume\ExamenFinalJaume\obj\Debug\ExamenFinalJaume.csproj.GenerateResource.cache
+C:\DAM2\M3UF4\Exercicis\ExamenFinalJaume\ExamenFinalJaume\obj\Debug\ExamenFinalJaume.csproj.CoreCompileInputs.cache
+C:\DAM2\M3UF4\Exercicis\ExamenFinalJaume\ExamenFinalJaume\obj\Debug\ExamenFinalJaume.exe
+C:\DAM2\M3UF4\Exercicis\ExamenFinalJaume\ExamenFinalJaume\obj\Debug\ExamenFinalJaume.pdb
